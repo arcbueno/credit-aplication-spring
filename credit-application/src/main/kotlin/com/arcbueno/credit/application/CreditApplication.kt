@@ -1,4 +1,4 @@
-package com.arcbueno.credit.application
+	package com.arcbueno.credit.application
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
